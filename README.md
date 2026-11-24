@@ -27,6 +27,11 @@ La mayor parte de este trabajo es para clientes, por eso sus repositorios son pr
 - **Despliegue:** Docker, GitHub Actions, Cloudflare Tunnel.
 - **Frontend y móvil:** Flutter, React, Astro, Unity (realidad aumentada).
 
+## Certificaciones
+
+- Operador RPA, Dirección General de Aeronáutica Civil (DGAC), credencial vigente.
+- [Craft Precise Prompts for AI Models](https://www.credly.com/badges/438ae17e-4478-444b-8372-4f61809d8fd8), IBM SkillsBuild (2026).
+
 ## Contacto
 
 [Portafolio](https://martin.miagentes.com) · [LinkedIn](https://www.linkedin.com/in/martin-zapata-ibaceta-092374334)
