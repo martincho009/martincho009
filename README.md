@@ -1,6 +1,6 @@
 # Martin Zapata Ibaceta
 
-**Especialista en implementación de soluciones de IA** · Talagante, Chile
+**Especialista en implementación de soluciones de IA** · Talagante, Chile · [martin.miagentes.com](https://martin.miagentes.com)
 
 Desde 2021 llevo necesidades de negocio a productos de IA que funcionan en producción. En Neuronía diseño, integro, despliego y mantengo soluciones basadas en LLM y agentes. Estudio Ingeniería en Automatización y Robótica en la UNAB.
 
@@ -29,4 +29,4 @@ La mayor parte de este trabajo es para clientes, por eso sus repositorios son pr
 
 ## Contacto
 
-[LinkedIn](https://www.linkedin.com/in/martin-zapata-ibaceta-092374334)
+[Portafolio](https://martin.miagentes.com) · [LinkedIn](https://www.linkedin.com/in/martin-zapata-ibaceta-092374334)
