@@ -7,7 +7,7 @@ Desde 2021 llevo necesidades de negocio a productos de IA que funcionan en produ
 ## En qué he trabajado
 
 - **Proyecto para Agrosuper (Match Perfecto):** investigación y diseño técnico de una de las iniciativas ganadoras de su Ruta de la Innovación y Transformación Digital 2025.
-- **Proyecto para Fastpack (Expomin 2023):** app de realidad aumentada en Unity para ver un catálogo de válvulas a escala real y recorrido virtual 3D de sus instalaciones, navegable en realidad virtual, celulares y computadores.
+- **Proyecto para Fastpack (Expomin 2023):** app de realidad aumentada en Unity para ver su catálogo de válvulas a escala real (a través de Neuronía) y recorrido virtual 3D de sus instalaciones, navegable con lentes de realidad virtual, celulares y computadores (a través de Idealiza).
 - **Talaria:** plataforma de asistentes ejecutivos con IA, basada en Hermes Agent y desplegada con una instancia por cliente.
 - **Cerebra:** chat analítico para ejecutivos que consulta SAP Business One y CRM mediante agentes de IA.
 - **Vigía:** plataforma municipal de gestión de denuncias con agentes de IA y analítica.
